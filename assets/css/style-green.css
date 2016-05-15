@@ -151,14 +151,15 @@ background-color: rgb(57, 171, 111);
 }
 .navbar-inverse .navbar-toggle {
 border-color: rgb(57, 171, 111);
+color: rgb(57, 171, 111);
 }
 
 
 /* =============================================================
 HOME SECTION STYLES
 ============================================================ */
-.main-title{
-  
+title{
+  text-align: center;
 }
 
 #home {
@@ -175,7 +176,7 @@ margin: 50px 20px;
 /*Carousel Slider*/
 
 #carousel-slider {
-padding: 50px 20px 5px 50px;
+padding: 50px 5px 5px 5px;
 }
 
 #carousel-slider h3 {
